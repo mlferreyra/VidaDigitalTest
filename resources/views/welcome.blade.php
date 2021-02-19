@@ -43,8 +43,8 @@
             <div class="container">
                 <div class="row">
                     <div class="intro">
-                        <div class="col-md-12 ">
-                            <h1 class="intro-h1 text-uppercase">Te guiamos hacia la transformación digital.</h1>
+                        <div class="col col-md-12">
+                            <h1 class="intro-h1 col text-uppercase">Te guiamos hacia la transformación digital.</h1>
                             <p class="text-uppercase">Construcción de servicios para el mundo de hoy.</p> 
                         </div>                   
                     </div> 

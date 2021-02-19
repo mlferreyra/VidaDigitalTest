@@ -644,10 +644,8 @@ i.under-construction {
   nav > li {
     width: 100%;
   }
-}
-
-@media (min-width: 450px){
   .intro-h1{
     font-size: 27px;
   }
 }
+
