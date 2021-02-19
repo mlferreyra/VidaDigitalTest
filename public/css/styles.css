@@ -581,6 +581,10 @@ i.under-construction {
     100% { -webkit-transform: rotate(-360deg); }
 }
 
+.navbar2 .navbar-collapse.collapse .login >ul >li >a{
+  color:white!important;
+}
+
 @media (min-width: 766px){
   .navbar{
     background-color:transparent !important;
@@ -594,9 +598,7 @@ i.under-construction {
   .navbar .navbar-collapse.collapse .login >ul >li >a{
     color: rgba(255,255,255, .7)!important;
   }
-  .navbar2 .navbar-collapse.collapse .login >ul >li >a{
-    color:black!important;
-  }
+  
   
 }
 
@@ -624,6 +626,7 @@ i.under-construction {
   .login > ul >li {
     text-align: left!important;
     display:block;
+    margin-bottom: 6px;
   }
   .navbar-toggler {
     margin:5px 10px 5px 0px
