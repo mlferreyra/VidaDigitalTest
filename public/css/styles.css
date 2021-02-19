@@ -6,7 +6,7 @@ body{
   background-image: url(/images/VD-SLIDERTEST.png);
   background-repeat: no-repeat;
 	background-size:cover;
-	min-height: 650px;
+	min-height: 580px;
 	width: 100%;
 	left:0;
 	top:0;
@@ -360,7 +360,7 @@ small {
 .intro-direction {
   position: absolute;
   left: 50%;
-  bottom: 1%;
+  bottom: 0%;
 }
 .mouse-icon {
   border: 2px solid #fff;
@@ -597,6 +597,7 @@ i.under-construction {
   .navbar2 .navbar-collapse.collapse .login >ul >li >a{
     color:black!important;
   }
+  
 }
 
 @media (max-width: 766px){
@@ -627,6 +628,7 @@ i.under-construction {
   .navbar-toggler {
     margin:5px 10px 5px 0px
   }
+  
 }
 
 @media (max-width: 992px){
@@ -644,7 +646,7 @@ i.under-construction {
   }
 }
 
-@media (max-width: 450px){
+@media (min-width: 450px){
   .intro-h1{
     font-size: 27px;
   }
