@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="{{asset('images/Favico.png')}}">
         <title>Vida Digital Test</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
         
@@ -45,7 +44,7 @@
                 <div class="row">
                     <div class="intro">
                         <div class="col-md-12 ">
-                            <h1 class="text-uppercase">Te guiamos hacia la transformación digital.</h1>
+                            <h1 class="intro-h1 text-uppercase">Te guiamos hacia la transformación digital.</h1>
                             <p class="text-uppercase">Construcción de servicios para el mundo de hoy.</p> 
                         </div>                   
                     </div> 

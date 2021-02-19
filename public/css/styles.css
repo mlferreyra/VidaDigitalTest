@@ -360,7 +360,7 @@ small {
 .intro-direction {
   position: absolute;
   left: 50%;
-  bottom: 7%;
+  bottom: 1%;
 }
 .mouse-icon {
   border: 2px solid #fff;
@@ -641,5 +641,11 @@ i.under-construction {
   }
   nav > li {
     width: 100%;
+  }
+}
+
+@media (max-width: 450px){
+  .intro-h1{
+    font-size: 27px;
   }
 }
